@@ -1,0 +1,32 @@
+Overall Background
+- genral map of the entire UIUC campusm, doesn't neccesary include all of the deatils and building (if we have time we can)
+- main Quad will be the center of the map, and the math, chemistry, astronomy building will be around
+- the animate character (player) should start from the main quad, to begin the game the player has to choose the where 
+  they want to go out of the three
+- option to take the bus or walk (animation should be present on the actual map)
+- the big map should then zoom into the specific buidling
+- Tilemap should be good: https://www.youtube.com/watch?v=DTp5zi8_u1U
+
+Chemistry Annex building
+- Chemistry Annex building is the closet to the main quad 
+- locate the player in a lab + element combination game #1
+  - the player should combine the given element reprsent by symbol to make it into different element (picture output)
+  - 1). given air + earth + water + fire
+  - 2). can group air + earth = dust + fire = gunpowder
+  - 3). need to figure out maybe 10 combination and find the correct explanation why the combination work
+- Ion Assembly game #2
+  - 1). With the pieces of the ion puzzle scattered in the classroom
+  - 2). player need to assemble the pieces into a correct ion model according to the characteristics of 
+        ion valence and coordination number
+  - 3). help player deepn their understanding of ionic chemistry 
+
+Pros
+- easy to execute for the first game
+- two user input = combination output (simple if + elseif)
+- picture are easy to find
+
+Cons
+- need complete ion concept
+- player interaction to assemble the pieces (drag around the puzzle)
+
+
